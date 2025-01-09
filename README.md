@@ -1,4 +1,4 @@
-[![](https://github.com/naheelkk/readme/blob/main/intro.svg)](https://www.linkedin.com/in/naheel-kk/)
+[![](https://github.com/naheelkk)](https://www.linkedin.com/in/naheel-kk/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naheelkk&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
