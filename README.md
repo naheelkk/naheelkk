@@ -11,6 +11,6 @@
 
 [![](https://github.com/naheelkk)](https://www.linkedin.com/in/naheel-kk/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naheelkk&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![naheelkk's Stats](https://github-readme-stats.vercel.app/api?username=naheelkk&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 
