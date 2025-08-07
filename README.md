@@ -15,6 +15,5 @@
 
 ![naheelkk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=naheelkk&theme=vue-dark&hide_border=true)
 
-![naheelkk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naheelkk&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-
+![naheelkk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naheelkk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
