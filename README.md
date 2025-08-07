@@ -11,8 +11,8 @@
 
 [![](https://github.com/naheelkk)](https://www.linkedin.com/in/naheel-kk/)
 
-![naheelkk's Stats](https://github-readme-stats.vercel.app/api?username=naheelkk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![naheelkk's Stats](https://github-readme-stats.vercel.app/api?username=naheelkk&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 
-![naheelkk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naheelkk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![naheelkk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naheelkk&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
